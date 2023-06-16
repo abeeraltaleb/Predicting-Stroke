@@ -17,8 +17,7 @@ This project requires the following dependencies:
 ## Usage
 To use this project, you need to follow these steps:
 
-1. 1. Import the required libraries.
-
+1. Import the required libraries.
 2. Download the dataset from Kaggle and save it as 'stroke.csv' in the same directory as the code.
 3. Run the code.
 
