@@ -34,4 +34,3 @@ Finally, the code prints the accuracy score of the model on the testing data.
 ## Conclusion
 This project demonstrates how to use Logistic Regression to predict stroke cases based on various features. It shows how to encode categorical variables, standardize features, split the data into training and testing sets, fit the model, make predictions, and evaluate the performance of the model using accuracy score.
 
-https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
